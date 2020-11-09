@@ -93,13 +93,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Nexus Releases Repository</name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-releases/</url>
+	      <url>http://18.218.124.196:8081/repository/ibmid-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nexus Snapshot Repository </name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	      <url>http://18.218.124.196:8081/repository/ibmid-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
