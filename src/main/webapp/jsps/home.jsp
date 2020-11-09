@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to DevOps Session - Automation World.</h1>
-<h1 align="center"> DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. </h1>
+<h1 align="center"> DevOps is a set of practices that combines together software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
